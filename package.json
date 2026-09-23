@@ -1,0 +1,8 @@
+{
+  "name": "selltostate-node-example",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "selltostate": "github:getbeton/selltostate-ts"
+  }
+}
